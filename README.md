@@ -3,10 +3,10 @@
 3D printed enclosure and assembly hardware.
 
 ## Status
-Work in progress — envelope design phase.
+Final Phase - Finished design.
 
 ## Contents
-- `cad/` — Source files (STEP, FreeCAD/Fusion)
+- `cad/` — Source files (SketchUp file, STEP, FreeCAD/Fusion)
 - `stl/` — Print-ready files
 - `docs/` — Assembly instructions
 
